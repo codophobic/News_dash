@@ -1,0 +1,23 @@
+.flexboxContainer {
+    display: flex;
+    flex-direction: row;
+}
+.pageContainer{
+    cursor:pointer;
+    display: block;
+    margin: 10px;
+    font-size: large;
+    font: outline;
+}
+.pageContainer:hover{
+    color: blue;
+}
+.pageContainerd{
+    color:black;
+    border-radius: 25px;
+    background:rgb(12, 173, 223);
+  width: 23px;
+  height: 21px;
+    
+
+}
