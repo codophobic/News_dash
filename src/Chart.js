@@ -34,7 +34,7 @@ import {Line} from 'react-chartjs-2';
           options={{
             title:{
               display:true,
-              text:'Articles per year of '+ingg,
+              text:'No of articles published per year for the last 5 years of '+ingg,
               fontSize:20
             },
             legend:{
