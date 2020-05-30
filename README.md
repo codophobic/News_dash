@@ -3,8 +3,6 @@ Its basically a news dashboard where user can see their desired articles publish
 Makes http requests.  
 Shows a chart of the no of articles published on the keyword for the last 5 years.  
 
-U can open the website by opening the link:  
-https://ankit111yo.github.io/News_dash/
 
 Language:  
 React Js
